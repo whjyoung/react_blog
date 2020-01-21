@@ -1,0 +1,44 @@
+/* 页面公用样式 */
+body {
+  background-color: #f6f6f6;
+}
+
+.comm_box {
+  background-color: #FFF;
+  margin-left: .5rem;
+  padding: .3rem;
+  border-radius: .3rem;
+  border: 1px solid #eee;
+}
+
+.comm_main {
+  /* margin-top: 3.7rem; */
+  margin-top: .5rem;
+}
+
+.comm_left {
+  background-color: #fff;
+  padding: .3rem;
+  border-radius: .3rem;
+  border-bottom: 1px solid #eee;
+}
+
+.list_title {
+  font-size: 1.3rem;
+  color: #1e90ff;
+  padding: 0 .5rem;
+}
+
+.list_icon {
+  padding: .5rem 0;
+  color: #aaa;
+}
+
+.list_icon span {
+  padding: 0 10px;
+}
+
+.list_content {
+  color: #777;
+  padding: .5rem;
+}

@@ -1,0 +1,28 @@
+/* 头部样式 */
+/* 这里的1rem=16px */
+.header {
+  background-color: #fff;
+  height: 3.2rem;
+  border-bottom: 1px solid #ccc;
+  overflow: hidden;
+  padding: 0 .4rem;
+  line-height: 3.2rem;
+  /* position: fixed;
+  top: 0;
+  z-index: 100;
+  width: 100%; */
+}
+.header_logo{
+  font-size: 1.4rem;
+  color: #1e90ff;
+}
+.header_text{
+  font-size: .6rem;
+  color:#999;
+  padding-left: .3rem;
+}
+.ant-menu-item{
+  font-size:.95rem !important;
+  padding-left:1rem;
+  padding-right:1rem;
+}
